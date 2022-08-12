@@ -1,0 +1,1 @@
+acct	sched_cd	type_structure	volt_amp	el_mileage	Num_of_circuits	contract_acct
