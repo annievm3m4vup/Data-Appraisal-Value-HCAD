@@ -1,0 +1,13 @@
+Code	Description
+AIR 	Aircraft
+VS  	Vessels
+I   	Inventory
+S   	Supplies
+RAW 	Raw Materials
+WIP 	Work In Progress
+FF  	Furniture and Fixtures
+ME  	Machinery and Other Equipment
+C   	Computers
+LI  	Leasehold Improvements
+V   	Vehicles
+MISC	Miscellaneous

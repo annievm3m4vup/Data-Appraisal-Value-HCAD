@@ -1,0 +1,15 @@
+Code	Description
+G1	Oil and Mineral Gas Reserves
+G2	Real Property Other Mineral Reserves
+J1	Real & Tangible Personal, Utility Water Systems
+J2	Gas Companies
+J3	Electric Companies
+J4	Telephone Companies
+J5	Railroads
+J6	Pipelines
+J7	Major Cable Television Systems
+L1	Tangible, Commercial
+L2	Tangible, Industrial
+M3	Personal Prop. Mobile Home
+S1	Dealer Inventory
+U0	Unknown

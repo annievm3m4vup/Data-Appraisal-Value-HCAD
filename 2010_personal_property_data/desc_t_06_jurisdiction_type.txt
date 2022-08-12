@@ -1,0 +1,14 @@
+Code	Description
+B	Both EMS and Fire D
+C	City
+D	Drainage District
+E	Emergency Services D
+F	Fire District
+I	Independent School D
+J	Junior/Community Col
+M	Management District
+N	Industrial Dist
+T	County
+W	Water Supply/Utility
+X	Inactive
+Z	TIRZ / TIFS
